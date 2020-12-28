@@ -1,16 +1,18 @@
-### Hi there 👋
+ ARKDAŞLAR HERKESE SELAM BEN YOUİSS SİZLERE ÇOK KULLANIŞLI KAYIT , MODERASYON , GUARD KARIŞIK BİR BOT ORTAYA SUNUYORUM SHANNARA NIN KAYIT SİSTEMİ ALINIP AYARLANMIŞTIR 
+ 
+BOTU BİLEREK HATALI VE EKSİK BIRAKTIM Kİ SİZLERDE BİRŞEY ÖĞRENEBİLİN SADECE COPY PASTE YAPMAYIN . ŞİMDİDEN HERKESE KOLAY GELSİN :)) YOUİSS
 
-<!--
-**youiss/youiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+BOTUMDA NELER VAR 
+- KAYIT SİSTEMİ 
+- KANAL SİLME 
+- SAĞ TIK BAN KORUMASI 
+- SAĞ TIK KİCK KORUMASI 
+- KANAL / ROL SİLME KORUMASI 
++ OLARAK KANAL VE ROL SİLİNCE VE BOT EKLEYİNCE SUNUCUDA Kİ BÜTÜN YÖNETİCİ YETKİLERİNİ KAPATIR BOTLARIN DAHİL !! 
+- DAHA VAR YAZMAYA ÜŞENDİM BAKARSINIZ :D
+
+UMARIM HOŞUNUZA GİDER EĞER BİR PROBLEMİNİZ OLURSA Youiss#1881 ÜZERİNDE BANA ULAŞABİLİRSİNİZ 
+
+BU ALTYAPIYI HİÇBİR YERDE BULAMAZSINIZ SADECE LEWZY ABONELERİNE ÖZEL PAYLAŞILMIŞTIR 
